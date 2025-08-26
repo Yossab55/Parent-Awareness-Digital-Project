@@ -1,6 +1,6 @@
-# team Modmen
+# team مُدمن
 
-فريق 1 مشروع تعوية للآباء بمخاطر الهواتف والسوشيل ميديا علي الأبناء
+فريق 1 مشروع تعوية للآباء بمخاطر الهواتف والسوشيل ميديا علي الأبناء باسم مُدمن
 
 [Google drive Project's link](https://drive.google.com/drive/folders/1oWv6-C50VKpfOC_-fIKY-bfKHMRddPmW?usp=sharing)
 
