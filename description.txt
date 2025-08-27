@@ -4,3 +4,10 @@
 وتركز المبادرة بشكل خاص على فيسبوك، باعتباره من أكثر المنصات استخدامًا بين الآباء والأطفال
 بالإضافة إلي استخدام منصة يوتيوب لعمل بودكاست لتوعية الآباء لفديوهات طويلة ودسمة
 وايضًا في المستقبل بداية النشر علي إنستجرام حتي نستطيع أن نوعي الجيل الصغير أيضًا بعد الآباء
+
+
+This project is a public awareness initiative aimed at educating parents on the potential risks that smartphones and social media pose to children.
+It seeks to provide parents with practical guidance on how to protect their children from these risks, offer healthy and constructive alternatives, and strengthen family awareness regarding safe digital practices.
+The initiative places particular focus on Facebook as one of the most widely used platforms among parents and children.
+Also, we will with YouTube for sharing Podcasts
+And may in future use Instagram so that we can raise awareness among youth
